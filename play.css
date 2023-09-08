@@ -1,0 +1,172 @@
+.play5 {
+  position: absolute;
+  top: 392px;
+  left: 106px;
+  font-size: var(--font-size-45xl);
+  font-weight: 600;
+}
+.image-30-icon1 {
+  position: absolute;
+  top: 479px;
+  left: 133px;
+  width: 1215px;
+  height: 649px;
+  object-fit: cover;
+}
+.open-play-at {
+  position: absolute;
+  top: 1194px;
+  left: 189px;
+  display: inline-block;
+  width: 1121px;
+}
+.group-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkorange);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 524px;
+  height: 120px;
+}
+.book-here3 {
+  position: absolute;
+  top: 33px;
+  left: 166px;
+  text-decoration: underline;
+  font-weight: 600;
+  color: inherit;
+}
+.group-child11,
+.rectangle-parent4 {
+  position: absolute;
+  top: 2211px;
+  left: 439px;
+  width: 524px;
+  height: 120px;
+}
+.group-child11 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-skyblue);
+  width: 1440px;
+  height: 235px;
+}
+.blank-line9 {
+  margin: 0;
+  text-decoration: underline;
+}
+.titians9 {
+  margin: 0;
+}
+.titians8 {
+  position: absolute;
+  top: 74px;
+  left: 542px;
+}
+.logo-3-icon4,
+.logo-4-icon4 {
+  position: absolute;
+  top: 35px;
+  left: 1174.13px;
+  width: 101.87px;
+  height: 166.85px;
+}
+.logo-4-icon4 {
+  top: 45.49px;
+  left: 1162px;
+  width: 99.32px;
+  height: 139.14px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 2484px;
+  left: 0;
+  width: 1440px;
+  height: 235px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inter);
+}
+.banner4,
+.group-child12 {
+  position: absolute;
+  top: 233px;
+  left: 0;
+  width: 1440px;
+  height: 5.29px;
+}
+.banner4 {
+  top: 0;
+  background-color: var(--color-skyblue);
+  height: 326px;
+}
+.about5,
+.camp5,
+.contact4,
+.the-t4 {
+  position: absolute;
+  top: 238px;
+  left: 42px;
+  cursor: pointer;
+}
+.about5,
+.contact4,
+.the-t4 {
+  left: 901px;
+}
+.contact4,
+.the-t4 {
+  left: 1081px;
+}
+.contact4 {
+  left: 1253px;
+}
+.afterschool5,
+.group-child13,
+.membership4,
+.play6 {
+  position: absolute;
+  top: 238px;
+  left: 189px;
+  cursor: pointer;
+}
+.group-child13,
+.membership4,
+.play6 {
+  left: 478px;
+}
+.group-child13,
+.membership4 {
+  left: 614px;
+}
+.group-child13 {
+  top: 43px;
+  left: 606px;
+  width: 114px;
+  height: 166.85px;
+}
+.banner-parent2,
+.line-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 326px;
+}
+.line-parent2 {
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-noto-sans-sc);
+}
+.play4 {
+  position: relative;
+  background-color: var(--color-antiquewhite);
+  width: 100%;
+  height: 2719px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-noto-sans);
+}
